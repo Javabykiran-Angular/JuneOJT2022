@@ -1,0 +1,77 @@
+			Welcome To Angular 12 Module
+					Sumit Raokhande
+
+- B.E.Electronics, KBP satara
+- M.Tech Electronics, Walchand College Sangli
+- C-Dac Wimc , Sunbeam pune
+- worked as Mobile Application developer at tivre business solution
+- worked on J2ME,Symbian,Windows Mobile,Reaserach Motion
+- Worked as Android developer at veetron 
+- Live android application prasieo,autohub,garage
+- Worked as JDE Developer of Oracle Product
+- Worked as OpenSDK developer
+- work as angular developer
+- work on google cloud & docker 
+- Also Association with kiran sir as a corporate trainer
+
+
+
+ - we will study angular 12/8 
+ - Duration 55Hr => 45 working days 
+ - Mon to frid 
+ - daily 1:15 min avg it may be exceed 1.30 or it may be 1 hr as well 
+ - Sat is only doubt solving session same time 12.00
+ - all are addedd in whts up group juneOjt Angular 12 pm
+ - any doubt u can ask any time in the session 
+ - don't miss any session 
+ - U have to join sharp 12 pm max joininig time 12.05
+ - all video recording will be share on ur whts up group but that recording is not dowloaded 
+ - video is avaialabe on cloud 3-4 days after that it is auto deleted 
+ - all code as well as soft copy notes except images  will be share on git hub repo.
+ - daily parctice is required at least 1.30hr
+ - basics of html & css w3school.com
+ - Oops concept is required 
+ - but only introduction knowl of advanced java is required (spring boot,hibernate,jdbc,mysql)
+ - Angular project done 
+	duration => 10 to 15 days 
+ - All interview question will provided 
+ - two way communication required 
+ 
+ - first we learn Typescript
+ - js will be learn in typescript
+ - after Angular 
+ 
+ Ur backend Restful api is ready for angular project 
+	
+	1 Employee => entity class
+	2 country -> entity class 
+	3 one to one mapping is required
+	 u hv to written 10 api
+	 
+	 1 getallemp
+	 2 getparticularemp by id
+	 3 add emp
+	 4 update emp
+	 5 delete particular emp
+	 6 add country
+	 7 getallcountry
+	 8 update country
+	 9 delete country
+	 10 get particular country by id 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
