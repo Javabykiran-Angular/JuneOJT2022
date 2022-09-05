@@ -1,0 +1,43 @@
+Last Lecture
+1 Difference Between Angular Js & Angular 2+ (2/4/5/6/7/8/9/10/11/12)
+	- it is js based/ typescript based
+	- MVC Pattern / MVW pattern
+	- memory is not efficient /memory is efficient
+	- performance is degrade / performance is good 
+	- Opps concept not suported / Opps concept suported
+2 What is Angular?
+	- It is freamwork
+3 Why Angular?/what is advantage of Angular?/explain the feature of angular
+	- one freamwork to all 
+	- it is universal freamwork
+	- it provides e2e tooling,declarative template,DI,services,cli,module
+	- code splitting 
+	- it is optimize & increase performance,spped is increase
+	- Angular cli 
+4 SPA
+	index.html 
+	 gmail,github,ganna.com,flipkart,SBI mutual,wlamart
+5 envir. setup
+		node js (14.15.1),vscode,typescript
+
+Today's Lecture
+1 What is Typescript
+2 Simple Program
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
