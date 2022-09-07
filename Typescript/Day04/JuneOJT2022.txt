@@ -1,0 +1,47 @@
+Last Lecture
+1 What is Typescript
+	- It is design by microsoft
+	- typescript= Ecma script standard + Ecma script version (js)+Addition features 
+	- It is superset of js 
+	- tsc compiler => it transcompile ur .ts file to .js file 
+	- strong static typing 
+	- compile time error
+	- OOPS concept support
+	Disava.
+	- Browser doesn't understand typescript
+		it design a tsc compiler 
+	- compile time is slow 
+	
+2 Simple Program
+	demo1.ts
+		console.log("Hello world")
+		console.log('Hopes as ')
+		
+	tsc demo1.ts & node demo1.js
+	
+	
+
+Today's Lecture
+1 Variable
+2 Data Types
+3 Type Assertion
+4 Operators
+5 Control Statements
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
