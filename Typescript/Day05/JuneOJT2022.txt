@@ -1,0 +1,63 @@
+Last Lecture
+1 Variable
+	var a;
+	
+2 Data Types
+	number(int,float,double,long),string(''/""),booelan(true/false),any,void,null,undefined
+	
+	var a:number=10;
+	console.log("value of a is "+a);
+	var a:number; //default value is undefined
+	var a='sumit';
+	var a:any;
+	a=2.5;
+	a='sumit'
+	
+3 Type Assertion
+		var a:any;
+		var temp=(<string> a);
+		var temp=(a as string);
+4 Operators
+	airthmathic,logical,ternary,unary,biteise,relation
+	==(it only checks value),
+	=== (strongly equality => it check value as well as data type of that variable) => It is asked in interview
+5 Control Statements
+	if,if-else,nested if-else,switch,break,continue
+	var count=2;
+	if(count<4){
+	....
+	}else{
+	....
+	}
+	
+	var choice=2;
+	switch(choice){
+		case 1:...
+				break;
+		.....
+		default:....
+				break;
+	}
+
+Today's Lecture
+1 loop Statements
+2 var vs let vs const => It is asked in interview
+3 functions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
