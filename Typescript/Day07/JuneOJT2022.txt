@@ -1,0 +1,66 @@
+Last Lecture
+1 Anonymous Function
+	let temp1=function (){
+		.....
+	}
+	temp1();
+	let temp2=function (a:number,b:number):number{
+		return (a+b)
+	}
+	let res=temp2(5,7)
+2 Fat Arrow Function
+	
+	let temp2=()=>{
+	......
+	}
+	temp2();
+	
+	let temp3=(a:number,b:number):number=>{
+		return (a+b)
+	}
+	
+	let res=temp3(4,5);
+
+3 Optional parameter Function
+		function add1(a?:number,b?:number){
+		.....
+		}
+		
+		add1(10);
+4 default parameter functions
+
+	function add1(a:number,b:number=9){
+		.....
+		}
+		
+		add1(5);
+
+Today's Lecture
+1 Array Basic
+2 join method
+3 for each method
+4 rest parameter function
+5 push & pop 
+6 splice 
+7 slice 
+8 map 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
