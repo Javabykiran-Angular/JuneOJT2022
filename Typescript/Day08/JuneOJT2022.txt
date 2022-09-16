@@ -1,0 +1,36 @@
+Last Lecture
+1 Array Basic
+2 join method
+3 for each method
+4 rest parameter function
+5 push & pop 
+6 splice 
+7 slice 
+8 map 
+
+Today's Lecture
+1 de-referncing of array
+2 Shallow Copy & deep Copy (JS interview Question)
+3 Swapping variables without using 3rd variables (Js interview Question)
+4 Functions that return multiple values (JS interview Question)
+5 Simple Json Object
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
