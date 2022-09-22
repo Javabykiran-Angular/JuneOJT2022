@@ -1,0 +1,118 @@
+Last Lecture
+1 Array of Object
+	arrobj=[
+		{
+			id:9,
+			fname:'sumit',
+			lname:'Raokhande',
+			country:{
+				cid:1,
+				cname:'India'
+			},
+			month:['jan',....],
+			result:[
+				{
+					subj:'m1',
+					marks:41
+				},
+				{
+					subj:'m2',
+					marks:41
+				}
+			]
+		},
+		{
+			id:9,
+			fname:'sumit',
+			lname:'Raokhande'
+		}
+		,
+		{
+			id:9,
+			fname:'sumit',
+			lname:'Raokhande'
+		}
+	]
+	for(let i=0;i<arrobj.length;i++){
+		console.log(`
+			id: ${arrobj[i].id}
+			....
+			country name :: ${arrobj[i].country.cname}
+			month: ${arrobj[i].month.join('  ')}
+		`)
+		
+		for(let j=0;j<arrobj[i].result.length;j++){
+			console.log(`
+				subject:: ${arrobj[i].result[j].subj}
+			`)
+		}
+		
+	}
+2 class
+	
+	export class Myclass{
+			public id:number;
+			private  fname:string;
+			protected
+			
+			constructor(id:number,fname:string){
+					this.id=id;
+					....
+			}
+			
+			display(){
+				console.log(`
+					id:: ${this.id}
+					....
+				`)
+			}
+		}
+		
+		let obj=new Myclass(9,'Sumit');
+		obj.display();
+		
+		demo2.ts
+		
+		import {Myclass} from './demo1';
+		
+		....
+		
+		
+		myfolder
+		demo3.ts
+		import {Myclass} from '../day09/demo1';
+		....
+	
+3 property,object,method
+4 constructor
+5 access specifier
+6 Access in same package
+7 Access in different package
+
+Today's Lecture
+1 Inheritance
+2 Method Override
+3 Interface
+4 has a relationship 
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
