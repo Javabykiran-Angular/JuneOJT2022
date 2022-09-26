@@ -1,0 +1,83 @@
+Last Lecture
+1 Angular setup
+	
+
+Today's Lecture
+1 Angular Arch. Overview
+	- it is component orientated Arch.
+	- Every component has 3 files
+		1 view => .html
+		2 stylesheet=> .css
+		3 component file=>.ts
+		4 testing file=> .spec.ts
+		- metadata=>
+		it gives extra information about that component
+			@Component({
+				selector:'app-root',
+				templateUrl:'./'
+				StyleUrls:['./']
+			})
+	- data binding
+		- data flow from component file to view file
+		1 String Interpolation
+		2 Property Binding
+		3 Style Binding
+		4 Class Binding
+	- Event Binding
+		- data\request flow from view to component
+		- click,change,keyboard,mouse event,form event 
+	- directive
+		- u can upadte ur dom structure behaviour with the help of directive
+		- attribute,structral,component,custom,event directive 
+	- app.module
+		- Whole application has only one root module => app.module.ts 
+		1 declaration
+			- to register ur component
+		2 import
+			- to register inbuild or custom module 
+			- module => it is collection of services,classess,method,interface,componet,enum..
+		3 services
+			- It is simple class 
+			- BL 
+			- isolation
+			- code resulabilty
+			- if u want service effectively in ur angular application then u have use Depedancy injection
+		4 routing
+			- it has another routing file 
+			- navigation from one component to the another component
+	- Injector
+		- if u want 3rd party services u can inject that in angular application
+		- angular inbuild service also we can inject 
+2 manually Component Creation
+	
+3 CLI through Component Creation 
+4 data binding
+	- data flow from component file to view file
+		1 String Interpolation
+		2 Property Binding
+		3 Style Binding
+		4 Class Binding
+5 String interpolation 
+	- if u want render a data dynamically then u go for string interpolation
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
