@@ -1,0 +1,75 @@
+Last Lecture
+1 Property Binding
+	<input [value]="name">
+	<img [src]="imgUrl">
+	.ts file
+	name:string='sumit';
+	imgUrl='../../assets/bg.jpg'
+2 String interpolation vs Property Binding
+	
+	<div hidden=" {{isHidden}} "	>
+		....
+		</div>
+		
+	<div [hidden]="isHidden">
+		....
+	
+3 Style Binding
+		
+	<h2 [style.color]="mycolor"	
+	<h2 [style.color]="rating<4?'red':'green'"
+	
+	
+	<div [ngStyle]="json">
+	....
+	
+	.ts file
+	mycolor:string='red';
+	json={
+		color:'red';
+		fontFamily:...
+		"font-size":...
+	}
+	
+4 class Binding
+	<h2 [class]='myclass'> 
+	<h2 [class.danger]="rating<4"
+		[class.warning]="rating>4"
+		
+	<div [ngClass]="json">
+	
+	.ts file
+	myclass:string='success';
+	json={
+		"success":!this.isError,
+		'danger': this.isError,
+		'special': this.isSpecial
+	}
+
+Today's Lecture
+1 Event Binding
+2 click event
+3 $event
+4 template ref. variable
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
