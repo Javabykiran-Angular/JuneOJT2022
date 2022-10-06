@@ -1,0 +1,60 @@
+Last Lecture
+1 ng Switch directive
+	<input #send >
+	button (click)="onSend(send.value)" >Send
+	div [ngSwitch]="choice">
+		div *ngSwitchCase="'red'"
+		[style.background]="choice"	>...
+		div *ngSwitchCase="'green'">...
+		
+		div *ngSwitchDefault
+			[style.background]="choice==''?'black':'orange'"	>your color name is name {{choice}}
+	
+	.ts file
+	
+	onSend(colorname:string){
+		this.choice=colorname.trim().toLowerCase();
+	}
+
+Today's Lecture
+1 Component interaction
+	- u can send data(string/boolean/number/json object/array/array of object) from one component to another component
+	- parent-child relationship established 
+	app.component.html
+	
+	<app-for>
+	<app-style>
+	
+2 @Input()
+3 @Output()
+
+task
+1 Send array of object data from parent to child 
+2 Send jsonObject data from child to parent 
+	
+	
+	
+ 
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
