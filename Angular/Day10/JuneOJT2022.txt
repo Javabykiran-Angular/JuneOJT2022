@@ -1,0 +1,35 @@
+Last Lecture
+1 Task Checking
+
+Today's Lecture
+1 Pipe
+	- if u want tranform any data to end user then we use inbuild pipe without changing its original value 
+2 Inbuild pipe
+3 chaining of pipe
+	
+	
+	
+ 
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
